@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate college student who loves to explore new technologies. My journey in tech is driven by curiosity and the desire to create meaningful projects.
+I'm a college student who loves to learn and explore new technologies. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
-- 🎯 Focused on Mobile and Web Development.
+- 🎯 Focused on Mobile and Web Development
 - 🧠 Always learning and improving my skills
 - 💡 Love to collaborate on interesting projects
-- ⚡ Fun fact: Platypuses sweat milk!
+- ⚡ Fun fact my crush 1st initial is K
 
 ---
 
