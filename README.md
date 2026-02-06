@@ -1,10 +1,8 @@
 <div align="center">
   
-# 👋 Hello, I'm [Kenneth Quibel](https://kensanity.is-a.dev/)!
+# 👋 Hello, I'm Jeremiah!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
- <p> 🌍 Website https://kensanity.is-a.dev/ </p>
-</div>
+
 
 ---
 
