@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
+I'm a passionate 1st year college students who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
 - 🎯 Focused on Web Development & AI
 - 🧠 Always learning and improving my skills
@@ -50,26 +50,10 @@ I'm a passionate developer who loves to explore new technologies and build innov
       <th><h3>📈 Github Stats</h3></th>
       <th><h3>💭 Random Dev Quote</h3></h3></th>
     </tr>
-    <tr>
-        <td align="center" width="50%">
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=Exzort567&show_icons=true&theme=radical" alt="Exzort567's GitHub Stats" />
-            <br />
-        </td>
-        <td align="center" width="50%">
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-        </td>
-    </tr>
+    
 </table>
 </div>
 
----
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Exzort567/Exzort567/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exzort567/Exzort567/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Exzort567/Exzort567/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 <div align="center">
