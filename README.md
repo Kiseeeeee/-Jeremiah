@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate 1st year college students who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
+I'm a passionate college students who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
-- 🎯 Focused on Web Development & AI
+- 🎯 Focused on Mobile and Web Development.
 - 🧠 Always learning and improving my skills
 - 💡 Love to collaborate on interesting projects
 - ⚡ Fun fact: Platypuses sweat milk!
@@ -43,21 +43,15 @@ I'm a passionate 1st year college students who loves to explore new technologies
 ---
 
 
-<div align="center">
 
-<table align="center">
-    <tr>
-      <th><h3>📈 Github Stats</h3></th>
-      <th><h3>💭 Random Dev Quote</h3></h3></th>
-    </tr>
-    
-</table>
-</div>
+
+
+
 
 
 ---
 <div align="center">
-  <b>⭐ Show some ❤️ by starring some of the repositories!</b>
+  <b>Hoping to learn more skills about coding and some tech stuffs.</b>
 </div>
 
 
