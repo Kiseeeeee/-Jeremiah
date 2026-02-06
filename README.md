@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate college students who loves to explore new technologies and build innovative solutions. My journey in tech is driven by curiosity and the desire to create meaningful projects.
+I'm a passionate college student who loves to explore new technologies. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
 - 🎯 Focused on Mobile and Web Development.
 - 🧠 Always learning and improving my skills
@@ -34,22 +34,8 @@ I'm a passionate college students who loves to explore new technologies and buil
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🤖 Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
 
 
-
-
-
-
-
-
----
 <div align="center">
   <b>Hoping to learn more skills about coding and some tech stuffs.</b>
 </div>
