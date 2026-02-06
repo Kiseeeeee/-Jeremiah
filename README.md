@@ -14,8 +14,7 @@ I'm a college student who loves to learn and explore new technologies. My journe
 
 - 🎯 Focused on Mobile and Web Development
 - 🧠 Always learning and improving my skills
-- 💡 Love to collaborate on interesting projects
-- ⚡ Fun fact my crush 1st initial is K
+- 💡 Fun fact, my crush 1st initial is K
 
 ---
 
