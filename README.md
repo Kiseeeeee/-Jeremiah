@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a college student who loves to learn and explore new technologies. My journey in tech is driven by curiosity and the desire to create meaningful projects.
 
-- 🎯 Focused on Mobile App and Web Development
-- 🧠 Always learning and improving my skills
-- 💡 
+- Focused on Mobile App and Web Development
+- Always learning and improving my skills
+  
 
 ---
 
