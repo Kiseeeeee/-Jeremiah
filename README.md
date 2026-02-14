@@ -22,9 +22,9 @@ I'm currently in college who loves to learn and explore new technologies.
 
 ---
 
-## 🛠️ Specialization 
+## Specialization 
 
-### 🌐 Web Development
+### Web Development
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
