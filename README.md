@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a college student who loves to learn and explore new technologies. My journey in tech is driven by curiosity and the desire to create meaningful projects.
+I'm currently in college who loves to learn and explore new technologies. 
 
 - Focused on Mobile App and Web Development
 - Always learning and improving my skills
