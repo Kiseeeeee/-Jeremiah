@@ -22,13 +22,13 @@ I'm a college student who loves to learn and explore new technologies. My journe
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Specialization 
 
 ### 🌐 Web Development
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 <div align="center">
