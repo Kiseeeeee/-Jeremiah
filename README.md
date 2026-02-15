@@ -32,8 +32,8 @@ I'm currently in college who loves to learn and explore new technologies.
 
 
 <div align="center">
-  <b>"As for me, all i know is that i know nothing"
-- Socrates</b>
+  <b>"As for me, all i know is that i know nothing."</b>
+<b>- Socrates</b>
 </div>
 
 
